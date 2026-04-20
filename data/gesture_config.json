@@ -1,7 +1,7 @@
 {
     "fist": "mission_control",
-    "open_hand": "volume_up",
-    "peace": "move_mouse",
-    "pinch": "click",
-    "thums_up": "volume_down"
+    "open_hand": "double_click",
+    "peace": "right_click",
+    "pinch": "move_mouse",
+    "thums_up": "volume_up"
 }
